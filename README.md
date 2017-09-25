@@ -58,13 +58,15 @@ Please cite the following paper if you use this code in your research:
 
 Seyednezhad, SM Mahdi, and Ronaldo Menezes. "Understanding Subject-Based Emoji Usage Using Network Science." In Workshop on Complex Networks CompleNet, pp. 151-159. Springer, Cham, 2017.
 
-bib format:
-@inproceedings{seyednezhad2017understanding,
-  title={Understanding Subject-Based Emoji Usage Using Network Science},
-  author={Seyednezhad, SM Mahdi and Menezes, Ronaldo},
-  booktitle={Workshop on Complex Networks CompleNet},
-  pages={151--159},
-  year={2017},
-  organization={Springer}
-}
+BibTex format:
+
+	@inproceedings{seyednezhad2017understanding,
+	  title={Understanding Subject-Based Emoji Usage Using Network Science},
+	  author={Seyednezhad, SM Mahdi and Menezes, Ronaldo},
+	  booktitle={Workshop on Complex Networks CompleNet},
+	  pages={151--159},
+	  year={2017},
+	  organization={Springer}
+	}
+
 
