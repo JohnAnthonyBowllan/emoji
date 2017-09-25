@@ -5,8 +5,11 @@ useful information on hdf files.
 We assume that the data (tweets in our case) is stored in a Mongodb database.
 In the emoji_parallel.py file:
 1- The program connects to either a remote or local Mongodb server
+
 2- The program can be run in parallel or just on one process. 
+
 3- The program uses an object from emoji_retrieveClass to extract emojis.
+
 4- The program can be run on multi processors and generate .hdf files.
 
 
