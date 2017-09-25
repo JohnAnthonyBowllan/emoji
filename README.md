@@ -42,6 +42,7 @@ The info...hdf files contain key information including the following items:
 
 In this version, we also calculate the heap of the emojis in order to investigate the heap's law for emojis.
 The heap key is in the info...hdf file and it contains a dictionary as the following:
+
         temp_dict={
         'tweet_count':tweet_count,
         'tweet_with_emoji_count':tweet_with_emoji_count,
@@ -49,4 +50,5 @@ The heap key is in the info...hdf file and it contains a dictionary as the follo
         'new_emoji_count':new_emoji_count,
         'lang_tweet_emoji_tuple':(lang_tweet,tweet_with_emoji_count, new_emoji_count) 
                 }
+Please cite the following paper if you use this code in your research:
 
