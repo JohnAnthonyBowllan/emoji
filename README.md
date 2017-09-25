@@ -4,6 +4,7 @@ useful information on hdf files.
 
 We assume that the data (tweets in our case) is stored in a Mongodb database.
 In the emoji_parallel.py file:
+
 1- The program connects to either a remote or local Mongodb server
 
 2- The program can be run in parallel or just on one process. 
